@@ -1,7 +1,19 @@
 # **Medical Insurance Price Prediction Project**
 
+
+
 ## **Overview**
 This project focuses on predicting the prices of medical insurance based on various personal attributes such as age, sex, BMI, number of children, smoker status, and region. The primary goal is to build a predictive model that can assist insurance companies in making informed decisions about insurance policy pricing.
+
+This Project is based on Medical Insurance Price Prediction available from kaggle repository.
+
+(https://www.kaggle.com/code/dylandsi/medical-insurance-price-prediction)
+1. It contains the details (e,g, age, sex, bmi etc.)of 2773 customers.
+
+2. My project task is to create a machine learning model which can predict the price of insurance on its characteristics.
+
+3. For solving this problem, I will approach the task, with a step by step approach to create a data analysis and prediction model based on
+(machine learning/AI algorithms, regression algorith for example) available from different Python packages, modules and classes
 
 ## **Dataset**
 The dataset used in this project is named Medical_insurance.csv. It contains several attributes, including:
