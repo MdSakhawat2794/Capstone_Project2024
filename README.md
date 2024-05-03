@@ -49,4 +49,4 @@ Clone the repository and navigate to the project directory.
 Launch Jupyter Notebook and open the medical_insurance_price_prediction.ipynb file to view the project.
 
 **Author**
-[**Md Sakhawat Hossain & Fardeen Okasha**] - Initial work and documentation.
+[**Md Sakhawat Hossain & Fardeen Bahar Ghalib Okasha**] - Initial work and documentation.
